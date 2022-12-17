@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9R5jyWQvJwV1wBTAa0eG8zn9mQhWQHjOqqnT2+3e1K0=",
+  "Source": "ZoriqWebApp",
+  "BasePath": "_content/ZoriqWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

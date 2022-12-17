@@ -1,0 +1,14 @@
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+C:\Users\Ravi Vishwakarma\source\repos\ZoriqWebApp\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
